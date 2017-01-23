@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":[],"mappings":"AAAA;;AAEA,IAAI,OAAM,SAAN,IAAM,CAAC,OAAD,EAAS,KAAT;AAAA,SAAiB,UAAQ,KAAzB;AAAA,CAAV","file":"script-compiled.js","sourcesContent":["'use strict';\n\nlet meal =(dessert,drink)=>dessert+drink;\n"]}
